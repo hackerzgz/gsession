@@ -1,9 +1,9 @@
-# RandStr
+# gsession
 
-random string tools write by Go.
+session id generator write by Go
 
 ## Install
 
 ```
-$ go get github.com/hackez/randstr
+$ go get github.com/hackez/gsession
 ```
